@@ -28,7 +28,7 @@ export const Navbar = () => {
         <nav className="navbar">
             <Row>
                 <Col span={8}>
-                    <div style={{backgroundColor:'#030c36',display:'inline-block',padding:'2px 2px',marginTop:'-1.5rem'}}>
+                    <div style={{backgroundColor:'#030c36',display:'inline-block',padding:'2px 2px',marginTop:'-1.5rem',marginLeft:"1rem"}}>
                         <img src={logo} />
                     </div>
                 </Col>
