@@ -211,18 +211,21 @@ h6 {
   font-weight: 500;
 }
 .orderProgress .plate-title{
-  padding: 0.8rem 0 0 0.8rem;
+  padding: 0.3rem 0 0 1.5rem;
+}
+.quipment-module .plate-title{
+  padding-left: 2rem;
 }
 .plate-title{
   width: 100%;
   height: 10%;
-  padding: 0.8rem 0 0 2rem;
+  padding: 0.8rem 0 0 3rem;
   font-size: 1.5rem;
   font-weight: 500;
 }
 .order-infos{
   width: 100%;
-  height: 8.8%;
+  height: 9%;
   padding:  0.8rem 0rem 0.5rem 1rem;
 }
 .map-flow{
@@ -242,6 +245,7 @@ h6 {
   width: 100%;
   height: 42%;
 }
+
 .equipment-infos{
   width: 100%;
   height: 8%;

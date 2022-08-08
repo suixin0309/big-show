@@ -156,7 +156,7 @@ export const ProdProgress = () => {
     })
     return (
         <div className="prodProgress">
-            <div className="plate-title color-title">生产进度</div>
+            <div className="plate-title color-title pdl-04">生产进度</div>
             <div id="prodProgressChart" style={{ width: "100%", height: "82%" }}></div>
         </div>
     )

@@ -17,7 +17,7 @@ export const Home = () => {
     let moneyList = [120000, 112000, 210000, 1200000, 120600, 100500, 118000]
     const [orderData, setOrderData] = useState(null);
     const [delay, setDelay] = useState(500000);
-    const [num1, setNum1] = useState(188589);
+    const [num1, setNum1] = useState(18859);
     const [num2, setNum2] = useState(19);
     const [num3, setNum3] = useState(89);
     const [num4, setNum4] = useState(28);
@@ -137,7 +137,7 @@ export const Home = () => {
                         <Row className="order-infos color-num text-left" align="middle" justify="space-between">
                             <Col className="small-module" span="7" style={{ height: "100%" }} flex="1">
                                 <div style={{ margin: "auto auto" }}>
-                                    <div>未排产订单</div>
+                                    <div>未排产订单345</div>
                                     <div className="color-red mgt-4">{num4}</div>
                                 </div>
                             </Col>
